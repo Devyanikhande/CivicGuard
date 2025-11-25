@@ -271,11 +271,6 @@ Nearest shelters + emergency guidelines.
 
 ---
 
-# 📎 License
-MIT — free to use.
-
----
-
 # 🎉 THANK YOU  
 If you need:
 ✅ YouTube video script  

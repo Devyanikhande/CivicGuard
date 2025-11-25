@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="architecture.png" width="600" alt="Architecture Diagram"/>
+  <img src="architecture.diagram.png" width="600" alt="Architecture Diagram"/>
 </p>
 
 ---

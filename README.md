@@ -251,6 +251,10 @@ Nearest shelters + emergency guidelines.
 </details>
 
 ---
+<p align="center">
+  <img src="deployment_diagram.png" width="600" alt="Architecture Diagram"/>
+</p>
+---
 
 # 📜 Glossary
 
